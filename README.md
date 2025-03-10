@@ -1,4 +1,4 @@
-# Homework Module: Rate Limiting Algorithms
+# Homework Module: Algorithms for flow control and speed limitation
 
 This HW explores different rate limiting techniques, which are crucial for managing network traffic and preventing abuse in systems such as APIs and chat applications. Rate limiting ensures fair resource allocation and system stability by controlling the frequency at which users can perform certain actions.
 
